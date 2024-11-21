@@ -1,7 +1,8 @@
 {
-  "name": "zoho-dummy",
+  "name": "fetch-zoho-leads",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "A project to fetch Zoho CRM leads via API",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
